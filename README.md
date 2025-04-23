@@ -1,5 +1,4 @@
 # Shotgun vs. Under Center: An NFL Play-by-Play Analysis
-A project for EECS 398 at U-M
 
 ## Introduction
 This NFL play-by-play dataset covers every play from every game (except the Super Bowl) during the 2021-2024 NFL seasons. It provides an in-depth look at the game from a variety of angles:
