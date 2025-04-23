@@ -1,1 +1,5 @@
 theme: minima
+
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
